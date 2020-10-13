@@ -1,6 +1,6 @@
 {
     "name": "auto-tag-selector",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "React component to item select in a collection with autocomplete feature. It has semantic-ui-react dependency...",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
